@@ -20,7 +20,7 @@ HTTP Status Code Images from Japanese Road Signs.
 |  205 | Reset Content                 | Tell client to reset the document view.              |  |  |  | 
 |  206 | Partial Content               | Partial response due to range header.                |  |  |  | 
 |  207 | Multi-Status (WebDAV)         | Multiple status codes for multiple operations.       |  |  |  | 
-|  208 | Already Reported (WebDAV)     | Members of a DAV binding already reported.           |!["208"](./assets/images/208.jpg) |  |  | 
+|  208 | Already Reported (WebDAV)     | Members of a DAV binding already reported.           | !["208"](./assets/images/208.jpg) |  |  | 
 |  226 | IM Used                       | Instance manipulations applied to the instance.      |  |  |  | 
 
 ## 3xx — Redirection

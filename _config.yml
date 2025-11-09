@@ -1,6 +1,6 @@
-title: "http_status_codes_journey"
-description: "http_status_codes_journey"
-baseurl: "/http_status_codes_journey"
+title: "http_status_codes_signs"
+description: "HTTP Status Code Images from Japanese Road Signs."
+baseurl: "/http_status_codes_signs"
 url: "https://europanite.github.io"
 theme: minima
 markdown: kramdown
